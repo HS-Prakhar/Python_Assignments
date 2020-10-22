@@ -1,3 +1,3 @@
 # Python_Assignments
-All the assignments are here!
+All the assignments are here.
 Thank You!
